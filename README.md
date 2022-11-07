@@ -1,10 +1,10 @@
  
 
 
-### Ex. No. :7
+## Ex. No.:7 Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
 ## Date: 7/11/22
-### Interfacing LM35 Temperature sensor and calculate the sensitivity of the output
-
+## NAME: ANITHA P
+## REGISTER NUMBER: 212221240004
 ## Aim: 
 To configure internal ADC for   LPC2148 ARM 7  for interfacing LM35 temperature sensor.
 ## Components required:
